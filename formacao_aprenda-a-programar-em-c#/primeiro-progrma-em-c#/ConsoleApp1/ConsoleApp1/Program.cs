@@ -114,9 +114,17 @@ void mediaNotaBanda()
     ExibirTitle("Média da banda");
     Console.Write("Digite o nome da banda para ver a média: ");
     string nomeBanda = Console.ReadLine()!;
-    if(bandas.ContainsKey(nomeBanda)) {
+
+    if (bandas.ContainsKey(nomeBanda)) {
         double mediaBanda = bandas[nomeBanda].Average();
         Console.WriteLine($"A nota média da banda {nomeBanda} é: {mediaBanda}");
+    } else
+    {
+        Console.WriteLine($"\nA banda {nomeBanda} não foi encontrada");
+        Console.WriteLine("Digite uma tecla para voltar ao menu!");
+        Console.ReadKey();
+        Console.Clear();
+        Options();
     }
 }
 
