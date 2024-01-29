@@ -1,15 +1,14 @@
 ﻿Music music1 = new Music();
-music1.name = "Impossible";
-music1.artist = "James Arthur";
-music1.duratioin = 209;
-music1.available = true;
-
+music1.Name = "Impossible";
+music1.Artist = "James Arthur";
+music1.Duratioin = 209;
+music1.Available = true;
 
 Music music2 = new Music();
-music2.name = "Hymn for the Weekend";
-music2.artist = "Coldplay";
-music2.duratioin = 258;
-music2.available = false;
+music2.Name = "Hymn for the Weekend";
+music2.Artist = "Coldplay";
+music2.Duratioin = 258;
+music2.Available = false;
 
 
 music1.DisplayTechnicalSheet();
