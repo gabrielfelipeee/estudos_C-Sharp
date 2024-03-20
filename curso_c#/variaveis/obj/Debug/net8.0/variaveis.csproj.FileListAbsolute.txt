@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\bin\Debug\net8.0\variaveis.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\bin\Debug\net8.0\variaveis.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\bin\Debug\net8.0\variaveis.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\bin\Debug\net8.0\variaveis.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\bin\Debug\net8.0\variaveis.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\variaveis.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\variaveis.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\variaveis.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\refint\variaveis.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\variaveis.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\variaveis.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\variaveis\obj\Debug\net8.0\ref\variaveis.dll
