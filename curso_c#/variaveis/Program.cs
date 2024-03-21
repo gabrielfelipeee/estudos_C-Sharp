@@ -2,7 +2,7 @@
 
 class Variaveis
 {
-
+    static int testei = 10;
     static void Main()
     {
         byte n1 = 10; // 0 a 255
@@ -13,5 +13,6 @@ class Variaveis
 
         // var => o tipo é especificado de acordo com a atribuição no ato da compilação, nesse caso um inteiro;
         var numero = 10;
+        Console.Write(testei);
     }
 }
