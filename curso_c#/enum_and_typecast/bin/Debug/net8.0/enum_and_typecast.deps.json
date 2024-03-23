@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "enum_and_typecast/1.0.0": {
+        "runtime": {
+          "enum_and_typecast.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "enum_and_typecast/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

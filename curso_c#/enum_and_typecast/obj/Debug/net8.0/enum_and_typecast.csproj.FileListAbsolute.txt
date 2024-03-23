@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\bin\Debug\net8.0\enum_and_typecast.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\bin\Debug\net8.0\enum_and_typecast.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\bin\Debug\net8.0\enum_and_typecast.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\bin\Debug\net8.0\enum_and_typecast.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\bin\Debug\net8.0\enum_and_typecast.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\enum_and_typecast.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\enum_and_typecast.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\enum_and_typecast.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\enum_and_typecast.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\enum_and_typecast.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\enum_and_typecast.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\refint\enum_and_typecast.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\enum_and_typecast.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\enum_and_typecast.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\enum_and_typecast\obj\Debug\net8.0\ref\enum_and_typecast.dll
