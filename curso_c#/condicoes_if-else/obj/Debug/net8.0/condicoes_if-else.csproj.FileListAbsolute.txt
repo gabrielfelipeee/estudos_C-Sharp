@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\bin\Debug\net8.0\condicoes_if-else.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\bin\Debug\net8.0\condicoes_if-else.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\bin\Debug\net8.0\condicoes_if-else.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\bin\Debug\net8.0\condicoes_if-else.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\bin\Debug\net8.0\condicoes_if-else.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\condicoes_if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\condicoes_if-else.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\condicoes_if-else.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\condicoes_if-else.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\condicoes_if-else.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\condicoes_if-else.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\refint\condicoes_if-else.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\condicoes_if-else.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\condicoes_if-else.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\condicoes_if-else\obj\Debug\net8.0\ref\condicoes_if-else.dll
