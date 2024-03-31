@@ -8,6 +8,9 @@ class Switch {
         char escolhaTransporte;
         string transporte = "";
 
+        inicio: // label
+        Console.Clear();
+
         Console.WriteLine("Belo Horizonte para Vitória");
         Console.WriteLine("Escolha o transporte: [A] Avião | [B] Ônibus | [C] Carro");
         escolhaTransporte = char.Parse(Console.ReadLine());
@@ -41,6 +44,19 @@ class Switch {
             Console.Clear();
             Console.WriteLine("Transporte escolhido: {0}", transporte);
             Console.WriteLine("Tempo de viagem: {0} hora(s)", tempo / 60);
+        }
+
+
+        // Usando o goto para calcular o tempo de um novo transporte
+        Console.Write("Calcular novamente? [s/n]");
+        escolhaTransporte = char.Parse(Console.ReadLine());
+        if(escolhaTransporte == 's')
+        {
+            goto inicio;
+        }  else
+        {
+            Console.Clear();
+            Console.WriteLine("Fim do programa");       
         }
     }
 }
