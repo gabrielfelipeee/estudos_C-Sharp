@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\bin\Debug\net8.0\matrizes_bidimensionais.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\bin\Debug\net8.0\matrizes_bidimensionais.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\bin\Debug\net8.0\matrizes_bidimensionais.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\bin\Debug\net8.0\matrizes_bidimensionais.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\bin\Debug\net8.0\matrizes_bidimensionais.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\matrizes_bidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\matrizes_bidimensionais.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\matrizes_bidimensionais.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\matrizes_bidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\matrizes_bidimensionais.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\matrizes_bidimensionais.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\refint\matrizes_bidimensionais.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\matrizes_bidimensionais.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\matrizes_bidimensionais.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\matrizes_bidimensionais\obj\Debug\net8.0\ref\matrizes_bidimensionais.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "matrizes_bidimensionais/1.0.0": {
+        "runtime": {
+          "matrizes_bidimensionais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "matrizes_bidimensionais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
