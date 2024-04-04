@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\bin\Debug\net8.0\ref.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\bin\Debug\net8.0\ref.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\bin\Debug\net8.0\ref.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\bin\Debug\net8.0\ref.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\bin\Debug\net8.0\ref.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\ref.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\ref.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\ref.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\ref.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\ref.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\refint\ref.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\ref.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\ref.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_metodos\ref\obj\Debug\net8.0\ref\ref.dll
