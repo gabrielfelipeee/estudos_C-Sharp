@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\bin\Debug\net8.0\classes_static.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\bin\Debug\net8.0\classes_static.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\bin\Debug\net8.0\classes_static.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\bin\Debug\net8.0\classes_static.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\bin\Debug\net8.0\classes_static.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\classes_static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\classes_static.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\classes_static.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\classes_static.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\classes_static.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\classes_static.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\refint\classes_static.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\classes_static.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\classes_static.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\classes_static\obj\Debug\net8.0\ref\classes_static.dll
