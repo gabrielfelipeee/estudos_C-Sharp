@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\bin\Debug\net8.0\protected.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\bin\Debug\net8.0\protected.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\bin\Debug\net8.0\protected.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\bin\Debug\net8.0\protected.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\bin\Debug\net8.0\protected.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\protected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\protected.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\protected.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\protected.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\protected.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\protected.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\refint\protected.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\protected.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\protected.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\modificadoresDeAcesso\protected\obj\Debug\net8.0\ref\protected.dll
