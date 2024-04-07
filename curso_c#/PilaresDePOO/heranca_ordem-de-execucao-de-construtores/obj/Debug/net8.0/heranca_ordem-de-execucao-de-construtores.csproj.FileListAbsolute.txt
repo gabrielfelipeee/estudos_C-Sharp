@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\bin\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\bin\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\bin\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\bin\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\bin\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\refint\heranca_ordem-de-execucao-de-construtores.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\heranca_ordem-de-execucao-de-construtores.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\heranca_ordem-de-execucao-de-construtores\obj\Debug\net8.0\ref\heranca_ordem-de-execucao-de-construtores.dll

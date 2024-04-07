@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\curso_c#\\PilaresDePOO\\heranca\\heranca.csproj",
-      "projectName": "heranca",
-      "projectPath": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\curso_c#\\PilaresDePOO\\heranca\\heranca.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\curso_c#\\pilaresDePOO\\heranca_ordem-de-execucao-de-construtores\\heranca_ordem-de-execucao-de-construtores.csproj",
+      "projectName": "heranca_ordem-de-execucao-de-construtores",
+      "projectPath": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\curso_c#\\pilaresDePOO\\heranca_ordem-de-execucao-de-construtores\\heranca_ordem-de-execucao-de-construtores.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\curso_c#\\PilaresDePOO\\heranca\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\curso_c#\\pilaresDePOO\\heranca_ordem-de-execucao-de-construtores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

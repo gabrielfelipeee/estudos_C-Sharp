@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "heranca_ordem-de-execucao-de-construtores/1.0.0": {
+        "runtime": {
+          "heranca_ordem-de-execucao-de-construtores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "heranca_ordem-de-execucao-de-construtores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
