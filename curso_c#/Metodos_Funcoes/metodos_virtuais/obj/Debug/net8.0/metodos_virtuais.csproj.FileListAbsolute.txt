@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\bin\Debug\net8.0\metodos_virtuais.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\bin\Debug\net8.0\metodos_virtuais.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\bin\Debug\net8.0\metodos_virtuais.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\bin\Debug\net8.0\metodos_virtuais.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\bin\Debug\net8.0\metodos_virtuais.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\metodos_virtuais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\metodos_virtuais.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\metodos_virtuais.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\metodos_virtuais.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\metodos_virtuais.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\metodos_virtuais.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\refint\metodos_virtuais.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\metodos_virtuais.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\metodos_virtuais.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos_virtuais\obj\Debug\net8.0\ref\metodos_virtuais.dll

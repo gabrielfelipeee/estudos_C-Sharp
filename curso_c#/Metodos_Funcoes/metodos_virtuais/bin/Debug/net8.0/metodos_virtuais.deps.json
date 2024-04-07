@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "metodos_virtuais/1.0.0": {
+        "runtime": {
+          "metodos_virtuais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "metodos_virtuais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
