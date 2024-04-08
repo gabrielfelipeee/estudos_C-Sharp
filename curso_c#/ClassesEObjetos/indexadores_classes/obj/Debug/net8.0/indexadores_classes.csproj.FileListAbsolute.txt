@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\indexadores_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\indexadores_classes.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\indexadores_classes.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\indexadores_classes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\indexadores_classes.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\bin\Debug\net8.0\indexadores_classes.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\bin\Debug\net8.0\indexadores_classes.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\bin\Debug\net8.0\indexadores_classes.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\bin\Debug\net8.0\indexadores_classes.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\bin\Debug\net8.0\indexadores_classes.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\indexadores_classes.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\refint\indexadores_classes.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\indexadores_classes.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\indexadores_classes.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\indexadores_classes\obj\Debug\net8.0\ref\indexadores_classes.dll

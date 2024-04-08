@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\encapsulamento_get-set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\encapsulamento_get-set.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\encapsulamento_get-set.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\encapsulamento_get-set.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\encapsulamento_get-set.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\bin\Debug\net8.0\encapsulamento_get-set.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\bin\Debug\net8.0\encapsulamento_get-set.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\bin\Debug\net8.0\encapsulamento_get-set.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\bin\Debug\net8.0\encapsulamento_get-set.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\bin\Debug\net8.0\encapsulamento_get-set.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\encapsulamento_get-set.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\refint\encapsulamento_get-set.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\encapsulamento_get-set.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\encapsulamento_get-set.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\PilaresDePOO\encapsulamento_get-set\obj\Debug\net8.0\ref\encapsulamento_get-set.dll
