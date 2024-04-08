@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\bin\Debug\net8.0\interfaces.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\bin\Debug\net8.0\interfaces.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\bin\Debug\net8.0\interfaces.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\bin\Debug\net8.0\interfaces.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\bin\Debug\net8.0\interfaces.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\interfaces.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\interfaces.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\interfaces.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\interfaces.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\refint\interfaces.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\interfaces.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\interfaces.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\interfaces\obj\Debug\net8.0\ref\interfaces.dll
