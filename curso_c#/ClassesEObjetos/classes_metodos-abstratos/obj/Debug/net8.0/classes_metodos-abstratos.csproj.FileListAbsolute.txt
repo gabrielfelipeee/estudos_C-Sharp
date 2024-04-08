@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\bin\Debug\net8.0\classes_metodos-abstratos.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\bin\Debug\net8.0\classes_metodos-abstratos.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\bin\Debug\net8.0\classes_metodos-abstratos.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\bin\Debug\net8.0\classes_metodos-abstratos.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\bin\Debug\net8.0\classes_metodos-abstratos.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\classes_metodos-abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\classes_metodos-abstratos.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\classes_metodos-abstratos.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\classes_metodos-abstratos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\classes_metodos-abstratos.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\classes_metodos-abstratos.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\refint\classes_metodos-abstratos.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\classes_metodos-abstratos.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\classes_metodos-abstratos.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\ClassesEObjetos\classes_metodos-abstratos\obj\Debug\net8.0\ref\classes_metodos-abstratos.dll
