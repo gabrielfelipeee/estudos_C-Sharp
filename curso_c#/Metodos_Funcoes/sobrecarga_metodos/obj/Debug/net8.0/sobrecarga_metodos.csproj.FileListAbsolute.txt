@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\bin\Debug\net8.0\sobrecarga_metodos.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\bin\Debug\net8.0\sobrecarga_metodos.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\bin\Debug\net8.0\sobrecarga_metodos.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\bin\Debug\net8.0\sobrecarga_metodos.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\bin\Debug\net8.0\sobrecarga_metodos.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\sobrecarga_metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\sobrecarga_metodos.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\sobrecarga_metodos.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\sobrecarga_metodos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\sobrecarga_metodos.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\sobrecarga_metodos.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\refint\sobrecarga_metodos.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\sobrecarga_metodos.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\sobrecarga_metodos.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\sobrecarga_metodos\obj\Debug\net8.0\ref\sobrecarga_metodos.dll

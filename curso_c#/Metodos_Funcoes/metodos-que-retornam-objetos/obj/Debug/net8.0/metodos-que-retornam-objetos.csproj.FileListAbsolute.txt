@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\bin\Debug\net8.0\metodos-que-retornam-objetos.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\bin\Debug\net8.0\metodos-que-retornam-objetos.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\bin\Debug\net8.0\metodos-que-retornam-objetos.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\bin\Debug\net8.0\metodos-que-retornam-objetos.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\bin\Debug\net8.0\metodos-que-retornam-objetos.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\metodos-que-retornam-objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\metodos-que-retornam-objetos.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\metodos-que-retornam-objetos.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\metodos-que-retornam-objetos.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\metodos-que-retornam-objetos.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\metodos-que-retornam-objetos.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\refint\metodos-que-retornam-objetos.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\metodos-que-retornam-objetos.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\metodos-que-retornam-objetos.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\Metodos_Funcoes\metodos-que-retornam-objetos\obj\Debug\net8.0\ref\metodos-que-retornam-objetos.dll
