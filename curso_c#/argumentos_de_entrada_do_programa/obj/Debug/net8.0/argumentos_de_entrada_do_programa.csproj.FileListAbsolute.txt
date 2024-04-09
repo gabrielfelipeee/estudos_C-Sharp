@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\bin\Debug\net8.0\argumentos_de_entrada_do_programa.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\bin\Debug\net8.0\argumentos_de_entrada_do_programa.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\bin\Debug\net8.0\argumentos_de_entrada_do_programa.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\bin\Debug\net8.0\argumentos_de_entrada_do_programa.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\bin\Debug\net8.0\argumentos_de_entrada_do_programa.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\argumentos_de_entrada_do_programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\argumentos_de_entrada_do_programa.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\argumentos_de_entrada_do_programa.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\argumentos_de_entrada_do_programa.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\argumentos_de_entrada_do_programa.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\argumentos_de_entrada_do_programa.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\refint\argumentos_de_entrada_do_programa.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\argumentos_de_entrada_do_programa.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\argumentos_de_entrada_do_programa.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\argumentos_de_entrada_do_programa\obj\Debug\net8.0\ref\argumentos_de_entrada_do_programa.dll
