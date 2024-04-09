@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\bin\Debug\net8.0\nomespace.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\bin\Debug\net8.0\nomespace.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\bin\Debug\net8.0\nomespace.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\bin\Debug\net8.0\nomespace.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\bin\Debug\net8.0\nomespace.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\nomespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\nomespace.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\nomespace.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\nomespace.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\nomespace.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\nomespace.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\refint\nomespace.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\nomespace.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\nomespace.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\nomespace\obj\Debug\net8.0\ref\nomespace.dll
