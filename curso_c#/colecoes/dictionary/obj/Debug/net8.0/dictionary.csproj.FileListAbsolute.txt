@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\bin\Debug\net8.0\dictionary.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\bin\Debug\net8.0\dictionary.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\bin\Debug\net8.0\dictionary.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\bin\Debug\net8.0\dictionary.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\bin\Debug\net8.0\dictionary.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\dictionary.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\dictionary.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\dictionary.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\refint\dictionary.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\dictionary.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\dictionary.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\dictionary\obj\Debug\net8.0\ref\dictionary.dll
