@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\bin\Debug\net8.0\try-catch-finally.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\bin\Debug\net8.0\try-catch-finally.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\bin\Debug\net8.0\try-catch-finally.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\bin\Debug\net8.0\try-catch-finally.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\bin\Debug\net8.0\try-catch-finally.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\try-catch-finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\try-catch-finally.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\try-catch-finally.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\try-catch-finally.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\try-catch-finally.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\try-catch-finally.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\refint\try-catch-finally.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\try-catch-finally.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\try-catch-finally.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\try-catch-finally\obj\Debug\net8.0\ref\try-catch-finally.dll
