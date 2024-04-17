@@ -1,14 +1,16 @@
 using Microsoft.AspNetCore.Mvc;
 using PrimeiraApi.Models.Entities;
-using System.Collections.Generic;
+using PrimeiraApi.Service;
 namespace PrimeiraApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
     public class AgendamentoController : ControllerBase
     {
+        private readonly IEmailService _emailService;
         List<Agendamento> agendamentos = new List<Agendamento>();
-        public AgendamentoController()
+
+        public AgendamentoController(IEmailService emailService)
         {
             agendamentos.Add(new Agendamento
             {
@@ -22,7 +24,10 @@ namespace PrimeiraApi.Controllers
                 Nome = "Felipe",
                 Horario = new DateTime(2024, 04, 17)
             });
+            EmailService = emailService;
         }
+
+        public IEmailService EmailService { get; }
 
         [HttpGet]
         public IActionResult Get()
@@ -37,6 +42,18 @@ namespace PrimeiraApi.Controllers
             return agendamentoSelecionado != null
             ? Ok(agendamentoSelecionado)
             : BadRequest("Erro ao buscar um agendamento");
+        }
+
+        [HttpPost]
+        public IActionResult Post()
+        {
+            var pacienteAgendado = true;
+
+            if (pacienteAgendado)
+            {
+                _emailService.EnviarEmail("gabrielfelipe0722@gmail.com");
+            }
+            return Ok("");
         }
     }
 }
