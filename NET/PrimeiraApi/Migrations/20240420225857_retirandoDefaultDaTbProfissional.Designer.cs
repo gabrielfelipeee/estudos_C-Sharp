@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using PrimeiraApi.Context;
 
@@ -11,9 +12,11 @@ using PrimeiraApi.Context;
 namespace PrimeiraApi.Migrations
 {
     [DbContext(typeof(ConsultorioContext))]
-    partial class ConsultorioContextModelSnapshot : ModelSnapshot
+    [Migration("20240420225857_retirandoDefaultDaTbProfissional")]
+    partial class retirandoDefaultDaTbProfissional
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -82,7 +85,7 @@ namespace PrimeiraApi.Migrations
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("varchar(100)")
+                        .HasColumnType("longtext")
                         .HasColumnName("nome");
 
                     b.HasKey("Id");

@@ -1,6 +1,7 @@
 using PrimeiraApi.Context;
 using PrimeiraApi.Service;
 using Microsoft.EntityFrameworkCore;
+using System.Reflection;
 
 // Criação do WebApplicationBuilder para configurar a aplicação
 var builder = WebApplication.CreateBuilder(args);
@@ -27,7 +28,9 @@ var connectionString = "Server=localhost;Port=3306;Database=Consultorio;Uid=root
 // Configura o contexto do banco de dados para usar MySQL com as opções especificadas
 builder.Services.AddDbContext<ConsultorioContext>(options =>
 {
-    options.UseMySql(connectionString, serverVersion);
+    options.UseMySql(connectionString, serverVersion,
+    Assembly => Assembly.MigrationsAssembly(typeof (ConsultorioContext).Assembly.FullName)
+    );
 });
 
 
