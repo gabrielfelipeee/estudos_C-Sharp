@@ -2,6 +2,11 @@ using PrimeiraApi.Context;
 using PrimeiraApi.Service;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
+using PrimeiraApi.Interfaces;
+using PrimeiraApi.Repository;
+using PrimeiraApi.Repository.Interfaces;
+using Microsoft.Extensions.Options;
+using System.IdentityModel.Tokens.Jwt;
 
 // Criação do WebApplicationBuilder para configurar a aplicação
 var builder = WebApplication.CreateBuilder(args);
@@ -36,8 +41,22 @@ builder.Services.AddDbContext<ConsultorioContext>(options =>
 
 
 
+
+
+builder.Services.AddScoped<IBaseRepository, BaseRepository>();
+builder.Services.AddScoped<IPacienteRepository, PacienteRepository>();
+
+
+
+
+
+
+
+
 // Adiciona suporte para controllers à aplicação
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddNewtonsoftJson(options => {
+    options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore;
+});
 
 // Adiciona suporte para o explorador de API do Swagger
 builder.Services.AddEndpointsApiExplorer();
