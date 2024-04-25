@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using PrimeiraApi.Context;
+using PrimeiraApi.Models.DTOs;
 using PrimeiraApi.Models.Entities;
 using PrimeiraApi.Repository.Interfaces;
 
@@ -13,9 +14,11 @@ namespace PrimeiraApi.Repository
             _context = context;
         }
 
-        public async Task<IEnumerable<Paciente>> GetPacientesAsync()
+        public async Task<IEnumerable<PacienteDTO>> GetPacientesAsync()
         {
-            return await _context.Pacientes.Include(x => x.Consultas).ToListAsync();
+            return await _context.Pacientes
+                .Select(x => new PacienteDTO {Id = x.Id, Nome = x.Nome})
+                .ToListAsync();
 
         }
 
