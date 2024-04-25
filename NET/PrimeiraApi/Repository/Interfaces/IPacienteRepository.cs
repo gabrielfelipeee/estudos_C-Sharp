@@ -5,7 +5,7 @@ namespace PrimeiraApi.Repository.Interfaces
 {
     public interface IPacienteRepository : IBaseRepository
     {
-        IEnumerable<Paciente> GetPacientes(); // Método para buscar todos os pacientes
-        Paciente GetPacientesById(int id); // método para buscar um paciente pelo id
+        Task<IEnumerable<Paciente>> GetPacientesAsync(); // Método para buscar todos os pacientes
+       Task<Paciente> GetPacientesByIdAsync(int id); // método para buscar um paciente pelo id
     }
 }

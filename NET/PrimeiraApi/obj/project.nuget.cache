@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fDdT4TtvcCGrCf6vtj2jjUCAZY2I8i3YPGteMKgKDHOyDG6vVfK3GLmzj4aGw+H3TS089VZ9l4JGLu6sJYa6Hg==",
+  "dgSpecHash": "JqsWs8QSwaF2jhuJn/NkdDR3nSkAKmCdtQ0xFOrf9wWplG89drm6Rr3N/qn8yTgE4jsPn91T06UgSQYMmkX1pQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
