@@ -17,14 +17,17 @@ namespace PrimeiraApi.Repository
         public async Task<IEnumerable<PacienteDTO>> GetPacientesAsync()
         {
             return await _context.Pacientes
-                .Select(x => new PacienteDTO {Id = x.Id, Nome = x.Nome})
+                .Select(x => new PacienteDTO { Id = x.Id, Nome = x.Nome })
                 .ToListAsync();
 
         }
 
         public async Task<Paciente> GetPacientesByIdAsync(int id)
         {
-            return await _context.Pacientes.Include(x => x.Consultas).Where(x => x.Id == id).FirstOrDefaultAsync();
+            return await _context.Pacientes.Include(x => x.Consultas)
+                .ThenInclude(x => x.Especialidade)
+                .ThenInclude(p => p.Profissionais)
+                .Where(x => x.Id == id).FirstOrDefaultAsync();
         }
     }
 }

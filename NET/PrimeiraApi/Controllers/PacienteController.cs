@@ -1,6 +1,6 @@
+using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using PrimeiraApi.Models.DTOs;
-using PrimeiraApi.Models.Entities;
 using PrimeiraApi.Repository.Interfaces;
 
 
@@ -11,9 +11,11 @@ namespace PrimeiraApi.Controllers
     public class PacienteController : ControllerBase
     {
         private readonly IPacienteRepository _repository;
-        public PacienteController(IPacienteRepository repository)
+        private readonly IMapper _mapper;
+        public PacienteController(IPacienteRepository repository, IMapper mapper)
         {
             _repository = repository;
+            _mapper = mapper;
         }
 
         [HttpGet]
@@ -30,15 +32,19 @@ namespace PrimeiraApi.Controllers
         {
             var paciente = await _repository.GetPacientesByIdAsync(id);
 
-            var pacienteRetorno = new PacienteDetalhesDTO
-            {
-                Id = paciente.Id,
-                Nome = paciente.Nome,
-                Celular = paciente.Celular,
-                Email = paciente.Email,
-                Consultas = new List<Consulta>()
-            };
+            var pacienteRetorno = _mapper.Map<PacienteDetalhesDTO>(paciente);
 
+            /*
+            // A biblioteca mapper faz isso abaixo:
+                        var pacienteRetorno = new PacienteDetalhesDTO
+                        {
+                            Id = paciente.Id,
+                            Nome = paciente.Nome,
+                            Celular = paciente.Celular,
+                            Email = paciente.Email,
+                            Consultas = new List<Consulta>()
+                        };
+            */
             return pacienteRetorno != null ? Ok(pacienteRetorno) : BadRequest("Paciente não encontrado");
         }
     }

@@ -42,7 +42,7 @@ builder.Services.AddDbContext<ConsultorioContext>(options =>
 
 
 
-
+builder.Services.AddAutoMapper(typeof(Program));
 builder.Services.AddScoped<IBaseRepository, BaseRepository>();
 builder.Services.AddScoped<IPacienteRepository, PacienteRepository>();
 
