@@ -10,6 +10,6 @@ namespace PrimeiraApi.Interfaces
         public void Add<T>(T entity) where T : class;
         public void Update<T>(T entity) where T : class;
         public void Delete<T>(T entity) where T : class;
-        bool SaveChanges(); //usado para salvar todas as alterações pendentes feitas no repositório.
+        Task<bool> SaveChangesAsync(); //usado para salvar todas as alterações pendentes feitas no repositório.
     }
 }

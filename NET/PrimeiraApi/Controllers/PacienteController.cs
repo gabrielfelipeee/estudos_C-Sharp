@@ -1,6 +1,7 @@
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using PrimeiraApi.Models.DTOs;
+using PrimeiraApi.Models.Entities;
 using PrimeiraApi.Repository.Interfaces;
 
 
@@ -46,6 +47,22 @@ namespace PrimeiraApi.Controllers
                         };
             */
             return pacienteRetorno != null ? Ok(pacienteRetorno) : BadRequest("Paciente não encontrado");
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Post(PacienteAdicionarDTO paciente)
+        {
+            if (paciente == null)
+            {
+                return BadRequest("Dados inválidos");
+            }
+
+            var pacienteAdicionar = _mapper.Map<Paciente>(paciente);
+            _repository.Add(pacienteAdicionar);
+
+            return await _repository.SaveChangesAsync()
+                ? Ok("Paciente adicionando com sucesso!")
+                : BadRequest("Erro ao salvar o paciente");
         }
     }
 }

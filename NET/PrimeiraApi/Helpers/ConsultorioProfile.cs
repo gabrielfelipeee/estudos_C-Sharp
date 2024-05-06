@@ -15,6 +15,8 @@ namespace PrimeiraApi.Helpers
             CreateMap<Consulta, ConsultaDTO>()
                 .ForMember(dest => dest.Especialidade, opt => opt.MapFrom(src => src.Especialidade.Nome))
                 .ForMember(dest => dest.Profissional, opt => opt.MapFrom(src => src.Profissional.Nome));
+
+            CreateMap<PacienteAdicionarDTO, Paciente>();
         }
     }
 }
