@@ -17,6 +17,9 @@ namespace PrimeiraApi.Helpers
                 .ForMember(dest => dest.Profissional, opt => opt.MapFrom(src => src.Profissional.Nome));
 
             CreateMap<PacienteAdicionarDTO, Paciente>();
+
+            CreateMap<PacienteAtualizarDTO, Paciente>()
+                .ForAllMembers(opt => opt.Condition((src, dest, srcMember) => srcMember != null));
         }
     }
 }

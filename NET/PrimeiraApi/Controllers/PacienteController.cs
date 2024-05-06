@@ -1,3 +1,4 @@
+using System.Reflection.Metadata.Ecma335;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
 using PrimeiraApi.Models.DTOs;
@@ -63,6 +64,22 @@ namespace PrimeiraApi.Controllers
             return await _repository.SaveChangesAsync()
                 ? Ok("Paciente adicionando com sucesso!")
                 : BadRequest("Erro ao salvar o paciente");
+        }
+
+
+        [HttpPut("{id}")]
+        public async Task<IActionResult> Put(int id, PacienteAtualizarDTO paciente)
+        {
+            if (id <= 0) return BadRequest("Usuário não informado!");
+
+            var pacienteBanco = await _repository.GetPacientesByIdAsync(id);
+
+            var pacienteAtualizar = _mapper.Map(paciente, pacienteBanco);
+            _repository.Update(pacienteAtualizar);
+
+            return await _repository.SaveChangesAsync()
+                ? Ok("Paciente Atualizado com sucesso")
+                : BadRequest("Erro ao atualizar paciente");
         }
     }
 }

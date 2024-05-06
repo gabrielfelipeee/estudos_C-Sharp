@@ -26,9 +26,9 @@ namespace PrimeiraApi.Repository
             return await _context.SaveChangesAsync() > 0;
         }
 
-        public void Update<T>(T entity) where T : class
+        public async void Update<T>(T entity) where T : class
         {
-            throw new NotImplementedException();
+            _context.Update(entity);
         }
     }
 }
