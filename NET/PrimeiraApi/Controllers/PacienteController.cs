@@ -81,5 +81,21 @@ namespace PrimeiraApi.Controllers
                 ? Ok("Paciente Atualizado com sucesso")
                 : BadRequest("Erro ao atualizar paciente");
         }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            if (id <= 0) return BadRequest("Paciente inválido");
+
+            var pacienteExcluir = await _repository.GetPacientesByIdAsync(id);
+
+            if (pacienteExcluir == null) return NotFound("Paciente não encontrado");
+
+            _repository.Delete(pacienteExcluir);
+
+            return await _repository.SaveChangesAsync()
+                ? Ok("Paciente deletado com sucesso")
+                : BadRequest("Erro ao deletar paciente");
+        }
     }
 }
