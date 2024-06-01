@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\list.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\list.AssemblyInfo.cs
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\list.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\list.sourcelink.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\bin\Debug\net8.0\list.exe
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\bin\Debug\net8.0\list.deps.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\bin\Debug\net8.0\list.runtimeconfig.json
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\bin\Debug\net8.0\list.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\bin\Debug\net8.0\list.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\list.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\refint\list.dll
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\list.pdb
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\list.genruntimeconfig.cache
+C:\Users\gabri\Desktop\estudos_C-Sharp\curso_c#\colecoes\list\obj\Debug\net8.0\ref\list.dll

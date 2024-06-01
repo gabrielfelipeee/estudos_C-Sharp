@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "txVPjkuo8cVSUys1g031yblnNWMfRjWt+rZMSlQfz+m0Iks/dRApIQ/DXEHsRRiNOQvUIBz//VNrpy1muMm5SQ==",
+  "dgSpecHash": "HqGA2ootd78H3SNTss3kWVqnHj2gS4hRi2/6h2vt7VVAjdn1K+VaXDa+e7a35r66kc75rGu+nYCy8E0cbbXw5Q==",
   "success": true,
-  "projectFilePath": "c:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

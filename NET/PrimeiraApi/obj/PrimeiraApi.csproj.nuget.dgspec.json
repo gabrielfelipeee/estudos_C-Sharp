@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj": {}
+    "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj": {
+    "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj",
         "projectName": "PrimeiraApi",
-        "projectPath": "c:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj",
+        "projectPath": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\PrimeiraApi.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Desktop\\estudos_C-Sharp\\NET\\PrimeiraApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
