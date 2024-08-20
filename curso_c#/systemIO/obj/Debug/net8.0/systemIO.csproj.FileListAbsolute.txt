@@ -1,0 +1,14 @@
+/home/gabriel/Desktop/systemIO/bin/Debug/net8.0/systemIO
+/home/gabriel/Desktop/systemIO/bin/Debug/net8.0/systemIO.deps.json
+/home/gabriel/Desktop/systemIO/bin/Debug/net8.0/systemIO.runtimeconfig.json
+/home/gabriel/Desktop/systemIO/bin/Debug/net8.0/systemIO.dll
+/home/gabriel/Desktop/systemIO/bin/Debug/net8.0/systemIO.pdb
+/home/gabriel/Desktop/systemIO/obj/Debug/net8.0/systemIO.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/systemIO/obj/Debug/net8.0/systemIO.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/systemIO/obj/Debug/net8.0/systemIO.AssemblyInfo.cs
+/home/gabriel/Desktop/systemIO/obj/Debug/net8.0/systemIO.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/systemIO/obj/Debug/net8.0/systemIO.dll
+/home/gabriel/Desktop/systemIO/obj/Debug/net8.0/refint/systemIO.dll
+/home/gabriel/Desktop/systemIO/obj/Debug/net8.0/systemIO.pdb
+/home/gabriel/Desktop/systemIO/obj/Debug/net8.0/systemIO.genruntimeconfig.cache
+/home/gabriel/Desktop/systemIO/obj/Debug/net8.0/ref/systemIO.dll
