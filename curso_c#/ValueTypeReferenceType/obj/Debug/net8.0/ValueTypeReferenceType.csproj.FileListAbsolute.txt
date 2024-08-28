@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/bin/Debug/net8.0/ValueTypeReferenceType
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/bin/Debug/net8.0/ValueTypeReferenceType.deps.json
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/bin/Debug/net8.0/ValueTypeReferenceType.runtimeconfig.json
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/bin/Debug/net8.0/ValueTypeReferenceType.dll
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/bin/Debug/net8.0/ValueTypeReferenceType.pdb
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/ValueTypeReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/ValueTypeReferenceType.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/ValueTypeReferenceType.AssemblyInfo.cs
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/ValueTypeReferenceType.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/ValueTypeReferenceType.sourcelink.json
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/ValueTypeReferenceType.dll
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/refint/ValueTypeReferenceType.dll
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/ValueTypeReferenceType.pdb
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/ValueTypeReferenceType.genruntimeconfig.cache
+/home/gabriel/Desktop/estudos_C-Sharp/curso_c#/ValueTypeReferenceType/obj/Debug/net8.0/ref/ValueTypeReferenceType.dll
