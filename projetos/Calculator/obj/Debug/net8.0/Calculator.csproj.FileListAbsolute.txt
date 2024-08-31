@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/bin/Debug/net8.0/Calculator
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Calculator/obj/Debug/net8.0/ref/Calculator.dll
