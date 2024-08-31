@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/bin/Debug/net8.0/Cronometro
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/bin/Debug/net8.0/Cronometro.deps.json
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/bin/Debug/net8.0/Cronometro.runtimeconfig.json
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/bin/Debug/net8.0/Cronometro.dll
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/bin/Debug/net8.0/Cronometro.pdb
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/Cronometro.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/Cronometro.AssemblyInfo.cs
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/Cronometro.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/Cronometro.sourcelink.json
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/Cronometro.dll
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/refint/Cronometro.dll
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/Cronometro.pdb
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/Cronometro.genruntimeconfig.cache
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/Cronometro/obj/Debug/net8.0/ref/Cronometro.dll
