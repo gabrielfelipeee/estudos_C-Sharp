@@ -1,0 +1,15 @@
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/bin/Debug/net8.0/EditorTexto
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/bin/Debug/net8.0/EditorTexto.deps.json
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/bin/Debug/net8.0/EditorTexto.runtimeconfig.json
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/bin/Debug/net8.0/EditorTexto.dll
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/bin/Debug/net8.0/EditorTexto.pdb
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/EditorTexto.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/EditorTexto.AssemblyInfoInputs.cache
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/EditorTexto.AssemblyInfo.cs
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/EditorTexto.csproj.CoreCompileInputs.cache
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/EditorTexto.sourcelink.json
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/EditorTexto.dll
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/refint/EditorTexto.dll
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/EditorTexto.pdb
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/EditorTexto.genruntimeconfig.cache
+/home/gabriel/Desktop/estudos_C-Sharp/projetos/EditorTexto/obj/Debug/net8.0/ref/EditorTexto.dll
